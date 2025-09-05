@@ -1,4 +1,4 @@
-# 👩‍💻 Olá, eu sou a Kamylla!
+# 👩‍💻 Olá, eu sou Kamylla!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💊 Formação em **Farmácia**, com experiência em drogarias e logística de medicamentos  
